@@ -19,7 +19,7 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           root_file: background_guard.tex
-          compiler: xelatex
+          latexmk_use_xelatex: true
       - name: Stash PDF
         run: |
           mv background_guard.pdf $HOME # cache the file
