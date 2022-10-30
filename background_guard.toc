@@ -9,5 +9,5 @@
 \contentsline {subsubsection}{\numberline {2.1.4}形势逆转}{8}{subsubsection.2.1.4}%
 \contentsline {subsubsection}{\numberline {2.1.5}通向《贝尔福宣言》之路}{9}{subsubsection.2.1.5}%
 \contentsline {subsubsection}{\numberline {2.1.6}停战}{10}{subsubsection.2.1.6}%
-\contentsline {subsection}{\numberline {2.2}以色列建国之路}{11}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.2}艰难建国之路}{11}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}大屠杀}{11}{subsubsection.2.2.1}%
